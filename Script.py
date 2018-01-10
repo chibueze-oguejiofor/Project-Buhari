@@ -24,10 +24,10 @@ def load_api():
     ''' Function that loads the twitter API after authorizing the user. '''
 
 <<<<<<< HEAD
-    consumer_key = 'kaD7RAfHJUXaE56Ugn30QOTak'
-    consumer_secret = 'O5AecWDigoQQu2Wp31FJKsw5E3aN0vNTf6Wor9WPQAguzNxFf6'
-    access_token ='456827035-Sk25SyLx6jWu6svZpzozIhy3suOs8wrVxWq61JJw'
-    access_secret = 'VzRNdID7SwCuVMtnVdBOJWrzcVQ21lcWpXvAFYFSDlKBs'
+    consumer_key = 'kaD7RAfH***********'
+    consumer_secret = '**************0vNTf6Wor9WPQAguzNxFf6'
+    access_token ='456827035-Sk25SyLx6jWu****************w'
+    access_secret = 'VzRNdID7Sw****************pXvAFYFSDlKBs'
 =======
     consumer_key = 'your key'
     consumer_secret = 'your key'
